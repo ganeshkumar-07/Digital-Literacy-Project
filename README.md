@@ -1,7 +1,7 @@
 # 📘 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-- **Name:** Jay Sainath Gaikar  
+- **Name:** Ganesh Kumar  
 - **Reg No:** 25BHI10119 
 
 ---
