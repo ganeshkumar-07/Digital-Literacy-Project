@@ -40,7 +40,7 @@ This project focuses on understanding digital literacy and its importance in tod
 **Files:**
 - `task-3/hackerrank-profile.png`
 - `task-3/hackerrank-problems.png`
-- `task-3/hackerrank-problem-solving-badge.png`
+- `task-3/python_basic certificate.pdf`
 - `task-3/Google-form.png`
 - `task-3/responses-summary.png`
 - `task-3/responses-sheet.png`
