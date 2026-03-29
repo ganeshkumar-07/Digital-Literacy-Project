@@ -1,6 +1,6 @@
 # Social Media Do's and Don'ts Checklist
 
-**Name:** Ganesh Kumar
+**Name:** Ganesh Kumar\
 **Reg No:** 25BHI10119
 
 ------------------------------------------------------------------------
