@@ -33,7 +33,7 @@ This project focuses on understanding digital literacy and its importance in tod
 
 ### 🟦 Task 3 – Coding & Google Forms
 - Practiced coding on HackerRank and solved beginner problems  
-- Earned **Problem Solving (Basic) certification**  
+- Earned **Python (Basic) certification**  
 - Created a Google Form quiz on digital literacy  
 - Collected and analyzed responses  
 
